@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         Person p1 = new Person(1L, "Ivan", 21, LocalDate.of(2002, Month.MARCH, 16));
 
-        System.out.println(p1);
+        System.out.println(p1); // Comment
 
        /* Scanner sc = new Scanner(System.in);
         System.out.println("Write your name: ");
